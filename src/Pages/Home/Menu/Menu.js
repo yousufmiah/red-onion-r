@@ -8,19 +8,19 @@ const Menu = () => {
       <div className="d-flex justify-content-center">
         <NavLink
           className={({ isActive }) => (isActive ? "active-link" : "link")}
-          to="/breakfast"
+          to="/"
         >
           Breakfast
         </NavLink>
         <NavLink
           className={({ isActive }) => (isActive ? "active-link" : "link")}
-          to="/lunch"
+          to="lunch"
         >
           Lunch
         </NavLink>
         <NavLink
           className={({ isActive }) => (isActive ? "active-link" : "link")}
-          to="/dinner"
+          to="dinner"
         >
           Dinner
         </NavLink>

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dinner Food ",
+    "img": "https://i.ibb.co/qmcRMcf/dinner6.png",
+    "price": "70",
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi quae, consequuntur odio eius cum facilis."
+  },
+  {
+    "name": "Bread Slad Organic ",
+    "img": "https://i.ibb.co/MDVPbt9/dinner5.png",
+    "price": "80",
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi quae, consequuntur odio eius cum facilis."
+  },
+  {
+    "name": "Desi Dim Pose ",
+    "img": "https://i.ibb.co/m9XjP21/dinner4.png",
+    "price": "70",
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi quae, consequuntur odio eius cum facilis."
+  },
+  {
+    "name": "Qatary Dim Pose ",
+    "img": "https://i.ibb.co/B41QTXd/dinner2.png",
+    "price": "120",
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi quae, consequuntur odio eius cum facilis."
+  },
+  {
+    "name": "Fizza Special Sweets ",
+    "img": "https://i.ibb.co/59V2Ld5/dinner3.png",
+    "price": "120",
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi quae, consequuntur odio eius cum facilis."
+  },
+  {
+    "name": "Sokto Toast With Agg",
+    "img": "https://i.ibb.co/QCCG86x/dinner1.png",
+    "price": "40",
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi quae, consequuntur odio eius cum facilis."
+  }
+]
