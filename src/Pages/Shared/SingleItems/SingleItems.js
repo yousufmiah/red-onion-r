@@ -3,10 +3,10 @@ import "./SingleItems.css";
 const SingleItems = ({ item }) => {
   const { name, img, desc, price } = item || {};
   return (
-    <div className="col-lg-4 ">
+    <div className="col-lg-4 col-md-6 col-12">
       <div className="text-center p-4 py-5 single-container">
         <img className="w-50 mx-auto" src={img} alt="" />
-        <h4>{name}</h4>
+        <h5>{name}</h5>
         <p className="opacity-75">{desc}</p>
         <p className="fw-bold">${price}</p>
       </div>
