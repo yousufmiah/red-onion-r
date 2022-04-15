@@ -11,10 +11,10 @@ const Banner = () => {
             placeholder="Search food items"
             aria-label="Search food items"
             aria-describedby="basic-addon2"
-            className="border-1 outline-0 input-form"
+            className="input-form"
           />
           <Button
-            className="btn btn-danger signup-btn border-0"
+            className="btn btn-danger signup-btn  input-form"
             id="button-addon2"
           >
             Search
