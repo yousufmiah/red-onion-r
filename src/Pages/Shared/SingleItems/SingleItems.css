@@ -1,0 +1,7 @@
+.single-container {
+  box-shadow: 0;
+  transition: box-shadow 1s;
+}
+.single-container:hover {
+  box-shadow: 0 0 3px #515151;
+}

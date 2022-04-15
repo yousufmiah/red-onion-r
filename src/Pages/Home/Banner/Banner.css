@@ -1,0 +1,14 @@
+.banner {
+  background-image: url("../../../images/bannerbackground.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+.banner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input-form {
+  outline: none;
+}

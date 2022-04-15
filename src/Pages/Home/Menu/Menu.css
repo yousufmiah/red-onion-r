@@ -1,0 +1,21 @@
+.link {
+  text-decoration: none;
+  margin-left: 40px;
+  font-size: 20px;
+  color: black;
+  font-weight: 500;
+  transition: color ease-in-out 300ms;
+}
+
+.link:hover {
+  color: #f91944;
+}
+
+.active-link {
+  text-decoration: none;
+  margin-left: 40px;
+  font-size: 20px;
+  transition: color ease-in-out 300ms;
+  color: #f91944;
+  border-bottom: 3px solid #f91944;
+}
